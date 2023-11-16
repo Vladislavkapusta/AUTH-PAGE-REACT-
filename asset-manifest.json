@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AUTH-PAGE-REACT-/static/css/main.5383aae3.css",
+    "main.js": "/AUTH-PAGE-REACT-/static/js/main.e3df3904.js",
+    "static/media/xmark-solid.svg": "/AUTH-PAGE-REACT-/static/media/xmark-solid.06cffcbc38cef707ac470a403b9b656d.svg",
+    "index.html": "/AUTH-PAGE-REACT-/index.html",
+    "main.5383aae3.css.map": "/AUTH-PAGE-REACT-/static/css/main.5383aae3.css.map",
+    "main.e3df3904.js.map": "/AUTH-PAGE-REACT-/static/js/main.e3df3904.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5383aae3.css",
+    "static/js/main.e3df3904.js"
+  ]
+}
